@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477214413939",
+    "project_id": "petcom-2f3c4",
+    "storage_bucket": "petcom-2f3c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477214413939:android:86d3216a95bb619a968606",
+        "android_client_info": {
+          "package_name": "com.aashish.petcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477214413939-9g4f00b2r3mpni9do3cuv3khppfle6s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aashish.petcom",
+            "certificate_hash": "af5934138cd2c221bf805b009a4da3da26b79163"
+          }
+        },
+        {
+          "client_id": "477214413939-jch9cct030351e789c4sta4e0vvtlavr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIDX8SbB-htXZz-MdkDvKv2VaGSGju5dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477214413939-jch9cct030351e789c4sta4e0vvtlavr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
